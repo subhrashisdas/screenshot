@@ -6,6 +6,7 @@ This API captures webpage screenshots using Puppeteer.
 
 1. **Clone the repository:**
    ```bash
+   export CHROMIUM_PATH=/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome
    git clone https://github.com/subhrashisdas/screenshot.git
    cd screenshot
    ```
